@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **ReactJs and NodeJs **
+- 🌱 I’m currently learning **ReactJs and NodeJs**
 
 - 📫 How to reach me **worksubrat2002@gmail.com**
 
