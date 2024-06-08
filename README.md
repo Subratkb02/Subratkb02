@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Subrat Kumar Behera</h1>
-<h3 align="center">A passionate Graphic designer and frontend developer from India</h3>
+<h1 align="center">Hello, I'm Subrat Kumar Behera</h1>
+<h3 align="center">A passionate Graphic designer and frontend developer from Pune,Maharashtra,India</h3>
 
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subratkb02&label=Profile%20views&color=0e75b6&style=flat" alt="subratkb02" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs and NodeJs **
 
 - 📫 How to reach me **worksubrat2002@gmail.com**
 
