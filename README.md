@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Subrat Kumar Behera</h1>
+![image](https://github.com/Subratkb02/Subratkb02/assets/118915829/7f8cfd62-0a88-48f1-b6a6-a1f013b23816)<h1 align="center">Hi 👋, I'm Subrat Kumar Behera</h1>
 <h3 align="center">A passionate Graphic designer and frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/55c6447056dee08842ca232bf5e61fd03a3fad92467e82327bf70069a7c58aaa/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313730383831362f73637265656e73686f74732f31353633373235362f6d656469612f66393832366630616638613439343632663034383236326138353032303335622e676966">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subratkb02&label=Profile%20views&color=0e75b6&style=flat" alt="subratkb02" /> </p>
 
