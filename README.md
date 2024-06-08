@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subrat Kumar Behera</h1>
 <h3 align="center">A passionate Graphic designer and frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif">
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subratkb02&label=Profile%20views&color=0e75b6&style=flat" alt="subratkb02" /> </p>
 
