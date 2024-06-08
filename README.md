@@ -1,4 +1,4 @@
-![image](https://github.com/Subratkb02/Subratkb02/assets/118915829/7f8cfd62-0a88-48f1-b6a6-a1f013b23816)<h1 align="center">Hi 👋, I'm Subrat Kumar Behera</h1>
+<h1 align="center">Hi 👋, I'm Subrat Kumar Behera</h1>
 <h3 align="center">A passionate Graphic designer and frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif">
