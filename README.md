@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Subrat Kumar Behera</h1>
-<h3 align="center">A passionate Graphic designer and frontend developer from Pune,Maharashtra,India</h3>
+<h3 align="center">A passionate Graphic designer and frontend developer from Pune, Maharashtra, India</h3>
 
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif">
 
