@@ -1,6 +1,3 @@
-Here's an enhanced version of your GitHub profile's README to make it more interactive and classic:
-
----
 
 <h1 align="center">Hello, I'm Subrat Kumar Behera</h1>
 <h3 align="center">A passionate Graphic Designer and Frontend Developer from Pune, Maharashtra, India</h3>
