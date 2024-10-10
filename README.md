@@ -6,10 +6,6 @@
   <img src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif" alt="coding" width="300">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subratkb02&label=Profile%20views&color=0e75b6&style=flat" alt="subratkb02" />
-</p>
-
 # 💫 About Me:
 🔭 I’m currently working on Financial Dashboard and DSA.<br>👯 I’m looking to collaborate on Open Source.<br>🌱 I’m currently learning NextJs<br>💬 Ask me about HTML, CSS , Javascript, ReactJs, Figma, Graphic Designing
 
