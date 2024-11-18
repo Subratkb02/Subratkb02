@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Subrat Kumar Behera from India..</h1>
+<h1 align="center">Hey there 👋, I'm Subrat Kumar Behera from India.</h1>
 
 ###
 
