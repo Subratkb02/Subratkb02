@@ -119,7 +119,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Subratkb02/Subratkb02/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Subratkb02/Subratkb02/main/snake.svg" alt="Snake animation" />
 
 ###
 
