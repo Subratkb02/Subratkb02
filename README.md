@@ -115,10 +115,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/xmo6OrKx06kAAAAM/yusuke-power.gif"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/Subratkb02/Subratkb02/output/snake.svg" alt="Snake animation" />
 
 ###
