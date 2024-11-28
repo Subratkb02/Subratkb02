@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate Frontend Developer, Graphic designer and UI/UX Designer<br>AI/ML and MERN enthusiast!!</h3>
+<h3 align="center">A passionate Frontend Developer, Graphic designer and UI/UX Designer<br>DevOps and MERN enthusiast!!</h3>
 
 ###
 
