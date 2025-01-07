@@ -5,21 +5,16 @@
 <h3 align="center">A passionate Frontend Developer, Graphic designer and UI/UX Designer<br>DevOps and MERN enthusiast!!</h3>
 
 ###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/subratkb02/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
-  </a>
- <a href="mailto:worksubrat2002@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo" />
-</a>
-  <a href="https://www.instagram.com/_subrat.kumar.behera_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/subratk1802" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="50" height="30" alt="hackerrank logo"  />
-  </a>
-</div>
+<div align ="center">
+<h3>Connect with me:</h3>
+<p>
+<a href="https://codepen.io/@subrat-kumar-behera-the-encoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@subrat-kumar-behera-the-encoder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subratkb02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subratkb02" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/subratk1802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/subratk1802" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/subrat_kb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/subrat_kb" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/captain_nimbus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/captain_nimbus/" height="30" width="40" /></a>
+</p>
+<div>
 
 ###
 
@@ -108,8 +103,14 @@
 <br clear="both">
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Subratkb02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  <div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=subratkb02&show_icons=true&locale=en&theme=dracula&hide_border=false" alt="subratkb02 stats" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Subratkb02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
+</div>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subratkb02&radius=16&theme=one-dark&area=true&order=5&custom_title=Activity%20Graph" height="300" alt="activity-graph graph"  />
+  
 </div>
 
 ###
