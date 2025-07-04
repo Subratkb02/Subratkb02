@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&color=DC143C&size=26&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;MERN+Stack+Enthusiast;AWS+%26+DevOps+Learner;ESP32+%7C+IoT+Builder;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&color=DC143C&size=26&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Graphic+Designer;MERN+Stack+Enthusiast;AWS+%26+DevOps+Learner;ESP32+%7C+IoT+Builder;Open+Source+Contributor" alt="Typing SVG" />
 
 </div>
 
