@@ -47,7 +47,7 @@
 ---
 
 <h3 align="center" style="color: #00cc33; text-shadow: 0 0 10px #00cc33;">
- ⚡  Hacktoberfest 2025 Badges
+ ⚡  Hacktoberfest Contibutions
 </h3>
 
 [![An image of @subratkb02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subratkb02)](https://holopin.io/@subratkb02)
