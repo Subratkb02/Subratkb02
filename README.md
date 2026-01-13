@@ -58,10 +58,7 @@
   📊 GitHub Stats & Activity
 </h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subratkb02&show_icons=true&hide_border=true&bg_color=000000&title_color=00cc33&text_color=00cc33&icon_color=00cc33" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subratkb02&layout=compact&bg_color=000000&title_color=00cc33&text_color=00cc33&hide_border=true" height="165"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Subratkb02&theme=highcontrast&hide_border=true&ring=00cc33&fire=00cc33&currStreakLabel=00cc33" alt="GitHub Streak Stats" />
