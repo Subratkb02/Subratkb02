@@ -65,7 +65,7 @@ Education:
   Graduation: 2026
   CGPA: 9.11/10
 
-Location: Pune, Maharashtra 🇮🇳
+Location: Pune, Maharashtra, India
 
 Core Expertise:
   - Backend Development
@@ -321,7 +321,7 @@ Mission:
 
 <td align="center" valign="middle" width="45%">
 
-### 🎉 Hacktoberfest
+### <b>Hacktoberfest</b>
 
 ✔ Hacktoberfest 2024  
 ✔ Hacktoberfest 2025
@@ -375,6 +375,4 @@ Mission:
 <br>
 <blockquote align="center">
 <i>"Synchronization: 100% • Mission: Build. Debug. Repeat."</i>
-<br>
-<b>— Subrat</b>
 </blockquote>
